@@ -6,5 +6,5 @@ To run the app:
 
 1. Create a directory on your computer. Copy the entertainment.py, media.py, and fresh_tomatoes.py into the folder.
 2. Open IDLE
-3. Open the media.py and entertainment.py files from IDLE
+3. Open the entertainment.py files from IDLE
 4. Run the entertainment.py file
